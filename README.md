@@ -1,7 +1,6 @@
 # Kodluyoruz - FrontEnd 101 Eğitimi
-> Hakan Yalçınkaya 
-> > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
-
+> Taha Uzun 
+> > [LinkedIn](https://www.linkedin.com/in/taha-uzun-52927a168/) - 
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
